@@ -1,0 +1,132 @@
+.container {
+    
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:aqua;
+}
+.caixa01{
+    width: 200px;
+    height: 200px;
+    background-color:  rgb(236, 171, 231);
+    display: flex;
+    margin: 10px;
+}
+.caixa{
+    width: 90px;
+    height: 90px;
+    background-color: black;
+}
+.caixa02{
+    width: 200px;
+
+    height: 200px;
+    background-color:  rgb(236, 171, 231);
+    display: flex;
+    align-items: center;
+    margin: 10px;
+}
+.caixa{
+    width: 90px;
+    height: 90px;
+    background-color: black;
+
+}
+.caixa03{
+    width: 200px;
+    height: 200px;
+    background-color:  rgb(236, 171, 231);
+    display: flex;
+    align-items: end;
+    margin: 10px;
+}
+.caixa{
+    width: 90px;
+    height: 90px;
+    background-color: black;
+}
+.caixa04{
+    width: 200px;
+    height: 200px;
+    background-color:  rgb(236, 171, 231);
+    display: flex;
+    margin: 10px;
+    justify-content: center;
+}
+.caixa{
+    width: 90px;
+    height: 90px;
+    background-color: black;
+}
+.caixa05{
+    width: 200px;
+    height: 200px;
+    background-color:  rgb(236, 171, 231);
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    display: flex;
+}
+.caixa{
+    width: 90px;
+    height: 90px;
+    background-color: black;
+}
+.caixa06{
+    width: 200px;
+    height: 200px;
+    background-color:  rgb(236, 171, 231);
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+}
+.caixa{
+    width: 90px;
+    height: 90px;
+    background-color: black;
+}
+.caixa07{
+    width: 200px;
+    height: 200px;
+    background-color:  rgb(236, 171, 231);
+    display: flex;
+    margin: 10px;
+    justify-content: end;
+}
+.caixa{
+    width: 90px;
+    height: 90px;
+    background-color: black;
+}
+.caixa08{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(236, 171, 231);
+    display: flex;
+    margin: 10px;
+    justify-content: end;
+    align-items: center;
+}
+.caixa{
+    width: 90px;
+    height: 90px;
+    background-color: black;
+}
+.caixa09{
+    width: 200px;
+    height: 200px;
+    background-color:  rgb(236, 171, 231);;
+    display: flex;
+    margin: 10px;
+    justify-content: end;
+    align-items: end;
+}
+.caixa{
+    width: 90px;
+    height: 90px;
+    background-color: black;
+}
+
